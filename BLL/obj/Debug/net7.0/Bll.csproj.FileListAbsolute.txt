@@ -1,0 +1,17 @@
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\Bll.deps.json
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\Bll.dll
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\Bll.pdb
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\Bll.dll
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\Bll.pdb
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\BOL.dll
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\BOL.pdb
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete

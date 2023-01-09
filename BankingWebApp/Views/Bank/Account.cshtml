@@ -1,0 +1,46 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Account Details</h1>
+    @{
+        List<Account> accounts = (List<Account>)ViewData["accounts"];
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th> Accttype</th>
+                        <th> Branch</th>
+                        <th> Balance </th>
+                         <th>name</th>
+                         <th>id </th>
+                         <th> addr</th> 
+                         <th> pan</th>
+                         <th> mob</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   
+                        @foreach (Account account in accounts)
+                        {
+                            <tr>
+                            <td>@account.name</td> 
+                            <td>@account.Type</td> 
+                            <td>account.balance</td>
+                             <td>account.name</td>
+                              <td>account.id</td> 
+                              <td>account.addr</td>
+                              <td>account.pan</td>
+                              <td>account.mob</td>
+                            </tr>
+                            
+                        }
+                    
+                </tbody>
+            </table>
+
+    }
+
+</div>

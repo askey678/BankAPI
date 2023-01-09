@@ -15,3 +15,20 @@ C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\DAL.dll
 C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\BOL.pdb
 C:\Users\dac\Desktop\csharp\day10\Bank\BLL\bin\Debug\net7.0\DAL.pdb
 C:\Users\dac\Desktop\csharp\day10\Bank\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\bin\Debug\net7.0\Bll.deps.json
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\bin\Debug\net7.0\Bll.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\bin\Debug\net7.0\Bll.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\bin\Debug\net7.0\BOL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\bin\Debug\net7.0\BOL.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\ref\Bll.dll

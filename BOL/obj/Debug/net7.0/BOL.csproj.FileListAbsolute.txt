@@ -10,3 +10,15 @@ C:\Users\dac\Desktop\csharp\day10\Bank\BOL\obj\Debug\net7.0\BOL.dll
 C:\Users\dac\Desktop\csharp\day10\Bank\BOL\obj\Debug\net7.0\refint\BOL.dll
 C:\Users\dac\Desktop\csharp\day10\Bank\BOL\obj\Debug\net7.0\BOL.pdb
 C:\Users\dac\Desktop\csharp\day10\Bank\BOL\obj\Debug\net7.0\ref\BOL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\bin\Debug\net7.0\BOL.deps.json
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\bin\Debug\net7.0\BOL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\bin\Debug\net7.0\BOL.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\BOL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\refint\BOL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\BOL.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BOL\obj\Debug\net7.0\ref\BOL.dll

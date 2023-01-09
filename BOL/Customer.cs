@@ -3,13 +3,39 @@ using System.ComponentModel.DataAnnotations;
 namespace BOL;
 
 public class Customer{
-    private int customer_Id{get; set;}
+    private int customer_Id;
 
 [Required]
-private string customer_Name{get; set;}
-private string customer_Address{get; set;}
-private string customer_PAN{get; set;}
-private long customer_Mobile{get; set;}
+private string customer_Name;
+private string customer_Address;
+private string customer_PAN;
+private long customer_Mobile;
+
+public string Customer_Name{
+        get{return customer_Name;}
+        set{customer_Name=value;}
+
+    }
+    public string Customer_Address{
+        get{return customer_Address;}
+        set{customer_Address=value;}
+
+    }
+    public string Customer_PAN{
+        get{return customer_PAN;}
+        set{customer_PAN=value;}
+
+    }
+    public long Customer_Mobile{
+        get{return customer_Mobile;}
+        set{customer_Mobile=value;}
+
+    }
+    public int Customer_Id{
+        get{return customer_Id;}
+        set{customer_Id=value;}
+
+    }
 
 public Customer(){
     this.customer_Name="customer name";

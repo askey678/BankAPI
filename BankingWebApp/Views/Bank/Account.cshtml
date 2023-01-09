@@ -11,14 +11,14 @@
             <table class="table table-striped">
                 <thead>
                     <tr>
-                        <th> Accttype</th>
+                        <th> Account Type</th>
                         <th> Branch</th>
                         <th> Balance </th>
-                         <th>name</th>
-                         <th>id </th>
-                         <th> addr</th> 
-                         <th> pan</th>
-                         <th> mob</th>
+                         <th>Name</th>
+                         <th>Customer_Id </th>
+                         <th> address</th> 
+                         <th> PAN</th>
+                         <th> Mobile</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -26,14 +26,14 @@
                         @foreach (Account account in accounts)
                         {
                             <tr>
-                            <td>@account.name</td> 
                             <td>@account.Type</td> 
-                            <td>account.balance</td>
-                             <td>account.name</td>
-                              <td>account.id</td> 
-                              <td>account.addr</td>
-                              <td>account.pan</td>
-                              <td>account.mob</td>
+                            <td>@account.Account_Branch</td> 
+                            <td>@account.Account_Balance</td>
+                             <td>@account.Customer_Name</td>
+                              <td>@account.Customer_Address</td> 
+                              <td>@account.Customer_Id</td>
+                              <td>@account.Customer_PAN</td>
+                              <td>@account.Customer_Mobile</td>
                             </tr>
                             
                         }

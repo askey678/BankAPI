@@ -10,10 +10,10 @@ public enum Account_Type {
 public class Account:Customer
 {
    
-    private int Account_No{get; set;}
-    private Account_Type Type{get; set;}
-    private string? Account_Branch{get; set;}
-    private double Account_Balance{get; set;}
+    private int account_no=0;
+    private Account_Type type;
+    private string? account_Branch;
+    private double account_Balance;
 
     /*
 A nullable type is a type that can represent the normal range of values for its underlying value type, plus an additional null value.
@@ -22,6 +22,27 @@ A nullable type is a type that can represent the normal range of values for its 
 The ? syntax is used to denote a nullable type. It is equivalent to using the Nullable<T> structure,
  where T is the underlying value type.
     */
+
+    public int Account_no{
+        get{return account_no;}
+        set{account_no=value;}
+
+    }
+    public Account_Type Type{
+        get{return type;}
+        set{type=value;}
+
+    }
+    public string Account_Branch{
+        get{return account_Branch;}
+        set{account_Branch=value;}
+
+    }
+    public double Account_Balance{
+        get{return account_Balance;}
+        set{account_Balance=value;}
+
+    }
 
     public Account(Account_Type Accttype, string branch, double balance, string name, int id, string addr, string pan, long mob):base(name, id, addr, pan, mob){
         if (Accttype==Account_Type.Saving || Accttype ==Account_Type.Current || Accttype == Account_Type.Demat) {

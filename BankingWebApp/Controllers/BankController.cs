@@ -56,10 +56,18 @@ public class BankController : Controller
         if (email == "akash.gothria678@gmail.com" && password == "akash")
         {
              Console.WriteLine("hello");
-           return Redirect("Bank/welcome");
+           return View("welcome");
         }
 
 
+        return View();
+    }
+
+    public IActionResult welcome()
+    {
+        BankManager mgr=new BankManager();
+        List<Account> accts=mgr.GetAllAccountsMg();
+        this.ViewData["accts"]=accts;
         return View();
     }
 

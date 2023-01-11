@@ -1,3 +1,5 @@
+@using BOL;
+
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -5,3 +7,14 @@
 <div class="text-center, container">
     <h1 class="display-4">Welcome to Customer Page</h1>
 </div>
+  @{
+        List<Account> allaccounts= (List<Account>)ViewData["accts"];
+        @if(allaccounts != null){
+        <ol>
+            @foreach( Account acc in allaccounts){
+                Console.WriteLine();
+                <li>@acc.Type</li>
+            }    
+        </ol>  
+        }  
+    }

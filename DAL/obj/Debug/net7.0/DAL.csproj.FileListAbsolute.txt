@@ -43,3 +43,18 @@ C:\Users\dac\Desktop\dotnet\BankAPI\DAL\obj\Debug\net7.0\DAL.dll
 C:\Users\dac\Desktop\dotnet\BankAPI\DAL\obj\Debug\net7.0\refint\DAL.dll
 C:\Users\dac\Desktop\dotnet\BankAPI\DAL\obj\Debug\net7.0\DAL.pdb
 C:\Users\dac\Desktop\dotnet\BankAPI\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\bin\Debug\net7.0\BOL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\bin\Debug\net7.0\BOL.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\AKASH GOTHRIA\OneDrive\Desktop\BankAPI\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using BankingWebApp.Models;
 using BLL;
 using BOL;
-
 namespace BankingWebApp.Controllers;
 
 public class BankController : Controller
@@ -15,16 +14,55 @@ public class BankController : Controller
         _logger = logger;
     }
 
-    public IActionResult Account()
+
+    public IActionResult Index()
     {
-        BankManager manager = new BankManager();
-        List<Account> accounts=new List<Account>();
-        accounts=manager.GetAllAccountsMg();
-        this.ViewData["accounts"]=accounts;
         return View();
     }
 
-  
+    public IActionResult Register()
+    {
+        return View();
+    }
+
+    List<string> customers = new List<string>();
+
+
+    [HttpPost]
+    public IActionResult Register(string name, string email, string password)
+    {
+        
+        customers.Add(name);
+        customers.Add(email);
+        customers.Add(password);
+        if(email=="akash.gothria678@gmail.com"){
+            Redirect("Bank/Login");
+        }
+        return View();
+       
+
+    }
+    public IActionResult Login()
+    {
+
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Login(string email, string password)
+    {
+        Console.WriteLine("hello");
+        // Console.WriteLine(email , password);
+        if (email == "akash.gothria678@gmail.com" && password == "akash")
+        {
+             Console.WriteLine("hello");
+           return Redirect("Bank/welcome");
+        }
+
+
+        return View();
+    }
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

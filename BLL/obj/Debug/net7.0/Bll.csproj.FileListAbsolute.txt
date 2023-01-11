@@ -32,3 +32,20 @@ C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bl
 C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\refint\Bll.dll
 C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\Bll.pdb
 C:\Users\AKASH GOTHRIA\OneDrive\Desktop\git bank\BankAPI\BLL\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\bin\Debug\net7.0\BOL.dll
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\bin\Debug\net7.0\BOL.pdb
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\dac\Desktop\dotnet\BankAPI\BLL\obj\Debug\net7.0\ref\BLL.dll

@@ -46,35 +46,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AKASH GOTHRIA\\.nuget\\packages\\": {}
+    "C:\\Users\\dac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\BLL\\Bll.csproj",
-      "projectName": "Bll",
-      "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\BLL\\Bll.csproj",
-      "packagesPath": "C:\\Users\\AKASH GOTHRIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\BLL\\obj\\",
+      "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
+      "projectName": "BLL",
+      "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
+      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AKASH GOTHRIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\BOL\\BOL.csproj": {
-              "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\BOL\\BOL.csproj"
+            "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj": {
+              "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj"
             },
-            "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\DAL\\DAL.csproj"
+            "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\DAL.csproj"
             }
           }
         }

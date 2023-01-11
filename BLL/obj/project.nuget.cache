@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pbgUPxbWyDdXgKLuaC8shCu6ywuZOdpf8xDkl2lx1yG8bJMCUoDvBcEgWXMWBchYwcazHvdIAdSVpzZ7DiWmmg==",
+  "dgSpecHash": "kfLfNfADK+4vWECAmvpiM9TEGsL2tdufy1bwjikwB5txBcEfCUiXlw5AvZaJkzG3A1cwlj0J43xCLo2Rj10tWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\git bank\\BankAPI\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

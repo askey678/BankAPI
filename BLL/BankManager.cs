@@ -8,7 +8,7 @@ public class BankManager
 
     public List<Account> GetAllAccountsMg(){
         List<Account> AccountList = new List<Account>();
-        AccountList=DbManager.GetAllAccounts();
+        AccountList=DBManager.GetAllAccounts();
         return AccountList;
     }
 

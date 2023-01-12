@@ -1,7 +1,24 @@
+@using BOL;
+
 @{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center, container">
     <h1 class="display-4">Welcome to Customer Page</h1>
-</div>
+
+  @{
+        List<Account> allaccounts= (List<Account>)ViewData["accts"];
+            Console.WriteLine("in the second div of ");
+        @if(allaccounts != null){
+        <ol>
+              Console.WriteLine("in not null of ");
+            @foreach( Account acc in allaccounts){
+                Console.WriteLine();
+                <li>@acc.Type</li>
+            }    
+        </ol>  
+        }  
+         Console.WriteLine("Data no found");
+    }
+    </div>

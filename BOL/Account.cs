@@ -7,10 +7,11 @@ public enum Account_Type {
     Demat
 }
 
+
 public class Account:Customer
 {
    
-    private int account_no=0;
+    private int account_no;
     private Account_Type type;
     private string? account_Branch;
     private double account_Balance;
@@ -23,17 +24,15 @@ The ? syntax is used to denote a nullable type. It is equivalent to using the Nu
  where T is the underlying value type.
     */
 
-    public int Account_no{
-        get{return account_no;}
-        set{account_no=value;}
-
-    }
+    static int Account_Number=100000;
+    
+    
     public Account_Type Type{
         get{return type;}
         set{type=value;}
 
     }
-    public string Account_Branch{
+    public string? Account_Branch{
         get{return account_Branch;}
         set{account_Branch=value;}
 
@@ -44,7 +43,7 @@ The ? syntax is used to denote a nullable type. It is equivalent to using the Nu
 
     }
 
-    public Account(Account_Type Accttype, string branch, double balance, string name, int id, string addr, string pan, long mob):base(name, id, addr, pan, mob){
+    public Account(Account_Type Accttype, string branch, double balance, string name, string addr, string pan, long mob):base(name,addr, pan, mob){
         if (Accttype==Account_Type.Saving || Accttype ==Account_Type.Current || Accttype == Account_Type.Demat) {
             this.Type = Accttype;
         } else {
@@ -52,6 +51,8 @@ The ? syntax is used to denote a nullable type. It is equivalent to using the Nu
         }
         this.Account_Branch=branch;
         this.Account_Balance=balance;
+        this.account_no=Account_Number;
+        Account_Number++;
 
 
     }

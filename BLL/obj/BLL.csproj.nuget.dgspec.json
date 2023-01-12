@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj": {}
+    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj": {
+    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj",
-        "projectName": "Bll",
-        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj",
+        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\obj\\",
         "projectStyle": "PackageReference",
@@ -160,6 +160,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

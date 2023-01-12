@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kfLfNfADK+4vWECAmvpiM9TEGsL2tdufy1bwjikwB5txBcEfCUiXlw5AvZaJkzG3A1cwlj0J43xCLo2Rj10tWg==",
+  "dgSpecHash": "ol0YYYYvHe4gwfwvWcvgyvRc7SlSc7S21P34fOIxRdlZ63bg4Q9TMWmKNy0PqDxumYXleuBEqsWRtsOaxPaRTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

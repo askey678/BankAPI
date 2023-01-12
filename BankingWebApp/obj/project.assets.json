@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "BLL/1.0.0": {
+      "Bll/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -10,10 +10,10 @@
           "DAL": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/BLL.dll": {}
+          "bin/placeholder/Bll.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BLL.dll": {}
+          "bin/placeholder/Bll.dll": {}
         }
       },
       "BOL/1.0.0": {
@@ -42,10 +42,10 @@
     }
   },
   "libraries": {
-    "BLL/1.0.0": {
+    "Bll/1.0.0": {
       "type": "project",
-      "path": "../BLL/BLL.csproj",
-      "msbuildProject": "../BLL/BLL.csproj"
+      "path": "../BLL/Bll.csproj",
+      "msbuildProject": "../BLL/Bll.csproj"
     },
     "BOL/1.0.0": {
       "type": "project",
@@ -60,8 +60,8 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "BLL >= 1.0.0",
-      "BOL >= 1.0.0"
+      "BOL >= 1.0.0",
+      "Bll >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -91,8 +91,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj"
+            "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj": {
+              "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj"
             },
             "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj": {
               "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj"

@@ -53,7 +53,7 @@ public class BankController : Controller
     {
         Console.WriteLine("hello");
         // Console.WriteLine(email , password);
-        if (email == "akash.gothria678@gmail.com" && password == "akash")
+        if(email == "akash.gothria678@gmail.com" && password == "akash")
         {
              Console.WriteLine("hello");
            return Redirect("Bank/welcome");

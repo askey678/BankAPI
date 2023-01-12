@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj"
+              "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj": {
+                "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj"
               },
               "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj": {
                 "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj"
@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj": {
+    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
-        "projectName": "BLL",
-        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj",
+        "projectName": "Bll",
+        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\Bll.csproj",
         "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\obj\\",
         "projectStyle": "PackageReference",

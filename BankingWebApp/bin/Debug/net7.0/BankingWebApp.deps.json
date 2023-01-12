@@ -8,20 +8,20 @@
     ".NETCoreApp,Version=v7.0": {
       "BankingWebApp/1.0.0": {
         "dependencies": {
-          "BLL": "1.0.0",
-          "BOL": "1.0.0"
+          "BOL": "1.0.0",
+          "Bll": "1.0.0"
         },
         "runtime": {
           "BankingWebApp.dll": {}
         }
       },
-      "BLL/1.0.0": {
+      "Bll/1.0.0": {
         "dependencies": {
           "BOL": "1.0.0",
           "DAL": "1.0.0"
         },
         "runtime": {
-          "BLL.dll": {}
+          "Bll.dll": {}
         }
       },
       "BOL/1.0.0": {
@@ -45,7 +45,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BLL/1.0.0": {
+    "Bll/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

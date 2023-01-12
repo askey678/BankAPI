@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "BLL/1.0.0": {
+      "Bll/1.0.0": {
         "dependencies": {
           "BOL": "1.0.0",
           "DAL": "1.0.0"
         },
         "runtime": {
-          "BLL.dll": {}
+          "Bll.dll": {}
         }
       },
       "BOL/1.0.0": {
@@ -31,7 +31,7 @@
     }
   },
   "libraries": {
-    "BLL/1.0.0": {
+    "Bll/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

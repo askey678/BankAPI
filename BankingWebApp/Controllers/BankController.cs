@@ -22,26 +22,26 @@ public class BankController : Controller
 
     public IActionResult Register()
     {
-        return View();
+        Account account = new Account();
+        return View(account);
     }
-
-    List<string> customers = new List<string>();
 
 
     [HttpPost]
-    public IActionResult Register(string name, string email, string password)
+    public IActionResult Register(Account regaccount)
     {
+        if(!ModelState.IsValid){
         
-        customers.Add(name);
-        customers.Add(email);
-        customers.Add(password);
-        if(email=="akash.gothria678@gmail.com"){
-            Redirect("Bank/Login");
-        }
         return View();
-       
-
+        }
+      
+        Console.WriteLine(regaccount.Account_Balance+" "+regaccount.Account_Branch+" "+regaccount.Customer_Name);
+        
+        return RedirectToAction("Login");
+    
     }
+
+
     public IActionResult Login()
     {
 

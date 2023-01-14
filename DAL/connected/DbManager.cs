@@ -1,4 +1,4 @@
-﻿namespace DAL;
+﻿namespace DAL.connected;
 
     using BOL;
     using MySql.Data.MySqlClient;
@@ -7,7 +7,7 @@
 
     public class DBManager
     {
-        public static string conString = @"server=localhost;port=3307;user=root; password=root123;database=bank";       
+        public static string conString = @"server=localhost;port=3306;user=root;password=akash@123;database=Bank";       
 
         public static List<Account> GetAllAccounts()
         {
@@ -28,7 +28,7 @@
 
                 while (reader.Read())
                 {
-                    int id = int.Parse(reader["Account_no"].ToString());
+                    // int id = int.Parse(reader["Account_no"].ToString());
                     Account_Type type = (Account_Type)Enum.Parse(typeof(Account_Type), reader["type"].ToString(), true);
                     string branch = reader["branch"].ToString();
                     double balance = double.Parse(reader["balance"].ToString());

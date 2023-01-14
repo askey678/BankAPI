@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BankingWebApp\\BankingWebApp.csproj": {}
+    "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BankingWebApp\\BankingWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BankingWebApp\\BankingWebApp.csproj": {
+    "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BankingWebApp\\BankingWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BankingWebApp\\BankingWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BankingWebApp\\BankingWebApp.csproj",
         "projectName": "BankingWebApp",
-        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BankingWebApp\\BankingWebApp.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BankingWebApp\\obj\\",
+        "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BankingWebApp\\BankingWebApp.csproj",
+        "packagesPath": "C:\\Users\\AKASH GOTHRIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BankingWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\AKASH GOTHRIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj"
+              "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BLL\\BLL.csproj"
               },
-              "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj": {
-                "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj"
+              "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj"
               }
             }
           }
@@ -69,35 +67,33 @@
         }
       }
     },
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj": {
+    "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\AKASH GOTHRIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\AKASH GOTHRIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj": {
-                "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj"
+              "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj"
               },
-              "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\DAL.csproj"
+              "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\DAL\\DAL.csproj"
               }
             }
           }
@@ -131,24 +127,22 @@
         }
       }
     },
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj": {
+    "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj",
+        "projectUniqueName": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\obj\\",
+        "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\AKASH GOTHRIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\AKASH GOTHRIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -186,32 +180,30 @@
         }
       }
     },
-    "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\DAL.csproj": {
+    "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\AKASH GOTHRIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\AKASH GOTHRIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj": {
-                "projectPath": "C:\\Users\\dac\\Desktop\\dotnet\\BankAPI\\BOL\\BOL.csproj"
+              "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\AKASH GOTHRIA\\OneDrive\\Desktop\\BankAPI\\BOL\\BOL.csproj"
               }
             }
           }

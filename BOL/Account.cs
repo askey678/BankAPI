@@ -32,7 +32,7 @@ The ? syntax is used to denote a nullable type. It is equivalent to using the Nu
         set{type=value;}
 
     }
-    public string? Account_Branch{
+    public string Account_Branch{
         get{return account_Branch;}
         set{account_Branch=value;}
 
@@ -41,6 +41,9 @@ The ? syntax is used to denote a nullable type. It is equivalent to using the Nu
         get{return account_Balance;}
         set{account_Balance=value;}
 
+    }
+    public Account(){
+        
     }
 
     public Account(Account_Type Accttype, string branch, double balance, string name, string addr, string pan, long mob):base(name,addr, pan, mob){

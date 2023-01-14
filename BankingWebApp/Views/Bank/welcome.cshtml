@@ -11,13 +11,33 @@
         List<Account> allaccounts= (List<Account>)ViewData["accts"];
             Console.WriteLine("in the second div of ");
         @if(allaccounts != null){
-        <ol>
-              Console.WriteLine("in not null of ");
+        <table class="table table-striped">
+        <thead>
+        <tr>
+        <th>Customer Name</th>
+         <th>Account Type</th>
+          <th>Branch</th>
+           <th>Balance</th>
+        
+        </tr>
+        </thead>
+        <tbody>
             @foreach( Account acc in allaccounts){
                 Console.WriteLine();
-                <li>@acc.Type</li>
+                <tr>
+            
+
+
+                <td>@acc.Customer_Name</td>
+                <td>@acc.Type</td>
+                <td>@acc.Account_Branch</td> 
+                <td>@acc.Account_Balance</td>
+                 </tr>
+                
+                
             }    
-        </ol>  
+            </tbody>
+            </table>  
         }  
          Console.WriteLine("Data no found");
     }

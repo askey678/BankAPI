@@ -1,24 +1,59 @@
+@using BOL;
 
 @{
     ViewData["Title"] = "Home Page";
 }
 
-<form action="/Bank/Register" method="post">
-  <fieldset>
-    <legend>Registration Form</legend>
-    <div class="mb-3">
-      <label for="name" class="form-label">Name</label>
-      <input type="text" id="name" class="form-control" value="" required>
-    </div>
-    <div class="mb-3">
-      <label for="Email" class="form-label">Email</label>
-      <input type="text" id="Email" class="form-control" placeholder="abc@gmail.com" required>
-    </div>
-    <div class="mb-3">
-      <label for="password" class="form-label">Password</label>
-      <input type="password" id="password" class="form-control" placeholder=" " required>
-    </div>
-  
-    <button type="submit" class="btn btn-primary">Submit</button>
-  </fieldset>
+<div>
+    <h1>Online Banking Application</h1>
+</div>
+<br>
+<form asp-controller="Bank" asp-action="Register" method="post" class="form-control" style="margin:10px">
+    <fieldset>
+        <legend> <h4>Registration Form </h4></legend>
+        <br>
+
+        <div class="form-group">
+        @model Account
+            Select Account Type
+            @Html.DropDownListFor(m => m.Type, 
+            new SelectList(Enum.GetValues(typeof(Account_Type))), 
+            "Select Any one")
+             </div>
+             <br>
+        <div class="form-group">
+            <label for="Account_Branch">Branch</label>
+            <input id="Account_Branch" id="Account_Branch" class="form-control" asp-for="Account_Branch" />
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Account_Balance">Balance</label>
+            <input id="Account_Balance" id="Account_Balance" class="form-control" asp-for="Account_Balance" />
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Customer_Name">Name</label>
+            <input id="Customer_Name" id="Customer_Name" class="form-control" asp-for="Customer_Name" />
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Customer_Address">Address</label>
+            <input id="Customer_Address" id="Customer_Address" class="form-control" asp-for="Customer_Address" />
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Customer_PAN">PAN</label>
+            <input id="Customer_PAN" id="Customer_PAN" class="form-control" asp-for="Customer_PAN" />
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Customer_Mobile">Mobile</label>
+            <input id="Customer_Mobile" id="Customer_Mobile" class="form-control" asp-for="Customer_Mobile" />
+        </div>
+        <br>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary" />
+            <input type="submit" value="Back" class="btn btn-secondary" />
+        </div>
+    </fieldset>
 </form>

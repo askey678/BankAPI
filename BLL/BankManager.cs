@@ -1,6 +1,6 @@
 ﻿namespace BLL;
 using BOL;
-using DAL;
+using DAL.connected;
 
 
 public class BankManager
@@ -11,5 +11,12 @@ public class BankManager
         AccountList=DBManager.GetAllAccounts();
         return AccountList;
     }
+
+    public Account GetAccountMg(Account acc){
+      Account account=acc;
+      Console.WriteLine("askey"+account.Account_Balance);
+        return account;
+    }
+
 
 }
